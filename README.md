@@ -28,8 +28,8 @@ The application presents a series of questions with multiple-choice answers. Use
        - `Answers.jsx`: Displays answers for a particular question.
        - `QuestionTimer.jsx`: Timer for each question.
        - `Summary.jsx`: Summarizes the quiz results at the end.
-- `App.jsx`: Main application component that setups the quiz structure.
-- `questions.js`: Contains the quiz questions and answers data.
+    - `App.jsx`: Main application component that setups the quiz structure.
+    - `questions.js`: Contains the quiz questions and answers data.
 
 ## Setup and Installation
 
